@@ -74,6 +74,14 @@ nav.navbar-transparente {
     color: black;
 }
 
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+}
+
+#carousel-spotify {
+    padding-bottom: 50px;
+}
+
 /* Estrutura de Conteudo */
 
 .caixa{
